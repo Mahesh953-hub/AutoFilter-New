@@ -6,7 +6,7 @@ import logging
 import random
 import asyncio
 import string
-from turtle import undo
+#from turtle import undo
 import pytz
 from .pmfilter import auto_filter 
 from Script import script
